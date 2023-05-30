@@ -1,0 +1,21 @@
+.data-grid {
+    margin-top: 20px;
+  }
+  
+  .data-grid table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .data-grid th,
+  .data-grid td {
+    padding: 8px;
+    border: 1px solid #ddd;
+  }
+  
+  .data-grid th {
+    background-color: #f2f2f2;
+  }
+  
+  /* Add additional styles as needed */
+  
