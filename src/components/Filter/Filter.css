@@ -1,0 +1,17 @@
+.filter {
+    margin-top: 10px;
+  }
+  
+  .filter form {
+    display: flex;
+    align-items: center;
+  }
+  
+  .filter select,
+  .filter input[type="text"],
+  .filter button {
+    margin-right: 5px;
+  }
+  
+  /* Add additional styles as needed */
+  
